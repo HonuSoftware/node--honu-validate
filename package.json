@@ -1,5 +1,5 @@
 {
-  "name": "@honu/validate",
+  "name": "honu--validate",
   "version": "0.0.1",
   "description": "Very simple validation package",
   "main": "./dist/index.js",
@@ -15,6 +15,10 @@
     "light"
   ],
   "author": "Caleb Morris <caleb.morris.g@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HonuSoftware/node--honu-validate"
+  },
   "license": "MIT",
   "dependencies": {
     "es6-error": "^4.0.0"
